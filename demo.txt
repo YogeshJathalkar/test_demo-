@@ -1,0 +1,7 @@
+This is the demo page for git 
+This is the second line to check if it is correct or not 
+ 
+t 
+ 
+
+I can add the third commit as well. 
